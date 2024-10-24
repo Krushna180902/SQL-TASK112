@@ -1,0 +1,1 @@
+Delete from Employee_Details where EmployeeID between 1 and 5;
